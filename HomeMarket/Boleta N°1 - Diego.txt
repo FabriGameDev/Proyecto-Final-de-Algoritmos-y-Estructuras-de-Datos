@@ -1,0 +1,19 @@
+========================================
+                HOME MARKET              
+       ¡Tu tienda de confianza!         
+========================================
+Fecha y Hora: 2024-11-29 22:02:26
+Tipo de Comprobante: Boleta
+========================================
+Cliente: Diego
+========================================
+ID	Nombre	Cantidad	P.Unit	P.Neto
+----------------------------------------
+P001	Leche	2	1.2	2.4
+----------------------------------------
+Subtotal: 2.40
+IGV (18%): 0.43
+Total: 2.83
+========================================
+Gracias por su compra en HOME MARKET
+¡Vuelva pronto!

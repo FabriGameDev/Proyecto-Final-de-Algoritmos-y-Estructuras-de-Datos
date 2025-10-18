@@ -1,0 +1,20 @@
+========================================
+                HOME MARKET              
+       ¡Tu tienda de confianza!         
+========================================
+Fecha y Hora: 2024-12-01 15:59:22
+Tipo de Comprobante: Boleta
+========================================
+Cliente: JULIO
+========================================
+ID	Nombre	Cantidad	P.Unit	P.Neto
+----------------------------------------
+P001	Leche	4	1.2	4.8
+P002	Arroz	4	4.0	16.0
+----------------------------------------
+Subtotal: 20,80
+IGV (18%): 3,74
+Total: 24,54
+========================================
+Gracias por su compra en HOME MARKET
+¡Vuelva pronto!

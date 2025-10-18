@@ -1,0 +1,21 @@
+========================================
+                HOME MARKET              
+       ¡Tu tienda de confianza!         
+========================================
+Fecha y Hora: 2024-11-29 22:02:53
+Tipo de Comprobante: Factura
+========================================
+RUC: 20521200040
+Razón Social: SERVIMANEF EIRL
+Dirección: Mz F7 Lt 13
+========================================
+ID	Nombre	Cantidad	P.Unit	P.Neto
+----------------------------------------
+P001	Leche	2	1.2	2.4
+----------------------------------------
+Subtotal: 2.40
+IGV (18%): 0.43
+Total: 2.83
+========================================
+Gracias por su compra en HOME MARKET
+¡Vuelva pronto!

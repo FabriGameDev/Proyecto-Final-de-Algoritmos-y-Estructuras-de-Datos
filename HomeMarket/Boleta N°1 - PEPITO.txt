@@ -1,0 +1,19 @@
+========================================
+                HOME MARKET              
+       ¡Tu tienda de confianza!         
+========================================
+Fecha y Hora: 2024-12-02 04:53:49
+Tipo de Comprobante: Boleta
+========================================
+Cliente: PEPITO
+========================================
+ID	Nombre	Cantidad	P.Unit	P.Neto
+----------------------------------------
+PROD001	Coca-Cola	1	5.5	5.5
+----------------------------------------
+Subtotal: 5,50
+IGV (18%): 0,99
+Total: 6,49
+========================================
+Gracias por su compra en HOME MARKET
+¡Vuelva pronto!

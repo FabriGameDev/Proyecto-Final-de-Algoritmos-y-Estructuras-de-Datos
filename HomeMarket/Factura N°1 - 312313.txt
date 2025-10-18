@@ -1,0 +1,21 @@
+========================================
+                HOME MARKET              
+       ¡Tu tienda de confianza!         
+========================================
+Fecha y Hora: 2024-11-29 22:20:19
+Tipo de Comprobante: Factura
+========================================
+RUC: 1231324121
+Razón Social: 312313
+Dirección: 1231231
+========================================
+ID	Nombre	Cantidad	P.Unit	P.Neto
+----------------------------------------
+P003	Camiseta	1	15.0	15.0
+----------------------------------------
+Subtotal: 15.00
+IGV (18%): 2.70
+Total: 17.70
+========================================
+Gracias por su compra en HOME MARKET
+¡Vuelva pronto!
